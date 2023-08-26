@@ -29,6 +29,7 @@ En este pequeño fragmento de código, exploraremos elementos básicos como incl
 ## Contenido
 - [x] Hello world
 - [x] Tipos de datos
+- [x] Variables
 
 ## Cómo usar este repositorio
 
