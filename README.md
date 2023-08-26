@@ -82,3 +82,5 @@ Este repositorio está abierto a contribuciones. Si tienes sugerencias de mejora
    Escribe `g++ --version` en la terminal para asegurarte de que el compilador esté instalado y funcionando.
 
 Recuerda que estos son solo ejemplos básicos de instalación. En algunos sistemas operativos y distribuciones Linux, puede haber variaciones en los nombres de los paquetes o en los métodos de instalación. Es importante consultar la documentación oficial de tu sistema operativo para obtener instrucciones específicas y actualizadas.
+
+# Extensiones en Visual studio code
