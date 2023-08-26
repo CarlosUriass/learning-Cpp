@@ -13,8 +13,8 @@ Float: Numeros de decimales (punto flotante (0.1, 4.3, 2.8, ..))
 Tamaño: 4 bytes
 
 
-Double: Numeros de punto flotante de doble precision
-Tamaño: 8 bytes (4+4 = doble flotante)
+Double: Numeros de punto flotante de doble precision (3.14, 2.43, ...)
+Tamaño: 8 bytes 
 
 
 Char (Character):

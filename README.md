@@ -31,6 +31,7 @@ En este pequeño fragmento de código, exploraremos elementos básicos como incl
 - [x] Tipos de datos
 - [x] Variables
 - [x] Constantes
+- [x] Array
 
 ## Cómo usar este repositorio
 
