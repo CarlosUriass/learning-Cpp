@@ -84,3 +84,18 @@ Este repositorio está abierto a contribuciones. Si tienes sugerencias de mejora
 Recuerda que estos son solo ejemplos básicos de instalación. En algunos sistemas operativos y distribuciones Linux, puede haber variaciones en los nombres de los paquetes o en los métodos de instalación. Es importante consultar la documentación oficial de tu sistema operativo para obtener instrucciones específicas y actualizadas.
 
 # Extensiones en Visual studio code
+
+Visual Studio Code (VS Code) es una herramienta muy popular para programadores y ofrece extensiones que facilitan el desarrollo en diversos lenguajes, incluyendo C++. Sigue estos pasos para instalar las extensiones necesarias:
+
+**Abre Visual Studio Code:**
+
+- Instala la Extensión de C++:
+- Abre VS Code.
+- Ve a la pestaña "Extensions" (Extensiones) en el menú lateral izquierdo o utiliza el atajo Ctrl+Shift+X.
+- Busca "C++" en el cuadro de búsqueda.
+- Instala la extensión proporcionada por Microsoft.
+
+** Compilador dde C++ **
+
+- En la pestaña extensiones encuentra " C/C++ Compile Run"
+- Instala la extensión xw
