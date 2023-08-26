@@ -30,10 +30,18 @@ En este pequeño fragmento de código, exploraremos elementos básicos como incl
 - [x] Hello world
 - [x] Tipos de datos
 - [x] Variables
+- [x] Constantes
 
 ## Cómo usar este repositorio
 
 Cada carpeta de lección contendrá el material de aprendizaje correspondiente, incluidos ejemplos de código y posiblemente ejercicios. Te animamos a explorar las lecciones en orden y a practicar cada concepto con el código proporcionado. Si tienes alguna pregunta o enfrentas desafíos, no dudes en abrir un problema en este repositorio para que podamos ayudarte.
+
+## Retos
+
+Dentro de la carpeta 'C++' encontrarás una subcarpeta llamada 'retos C++', en ella albergan retos de codigo para que puedas aplicar conocimientos de los elementos basicos de este lenguaje de programacion. Los detalles de cada uno de los ejercicios se encuentran dentro del archivo. 
+La subcarpeta 'retos soluciones' están los ejercicios completos por si alguno se te dificulta.
+
+Recuerda que si tienes alguna duda, pregunta puedes abrir un problema en este repositorio para intentar ayudarte.
 
 ## Contribuciones
 
@@ -48,7 +56,7 @@ Este repositorio está abierto a contribuciones. Si tienes sugerencias de mejora
 
 1. **Instala MinGW:**
 
-   - Descarga el instalador de MinGW desde [este enlace](https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/).
+   - Descarga el instalador de MinGW desde [este enlace](https://sourceforge.net/projects/mingw/).
    - Ejecuta el instalador descargado y sigue las instrucciones en pantalla.
    - En la ventana de "MinGW Installation Manager", selecciona los componentes `mingw32-base` y `mingw32-gcc-g++` para instalar.
    - Selecciona "Installation" en el menú superior y elige "Apply Changes".
