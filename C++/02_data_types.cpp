@@ -27,7 +27,7 @@ Tamaño: 4 bytes
 #include <typeinfo> // Necesario para usar typeid
 
 int main() {
-    int h = true;  // Dato booleano
+    bool h = true;  // Dato booleano
     int x = 5; // Dato int
     double y = 3.14; // Doble flotante
     char z = 'A'; // Char/caracter
@@ -42,6 +42,10 @@ int main() {
     std::cout << "Tipo de z: " << typeid(z).name() << std::endl;
     std::cout << "Tipo de h: " << typeid(h).name() << std::endl;
     return 0;
+
+    /*
+    Donde i representa int, d representa double, b representa bool y c representa char.
+    */
 }
 
 

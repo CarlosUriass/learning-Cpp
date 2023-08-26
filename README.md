@@ -25,6 +25,11 @@ int main() {
 
 En este pequeño fragmento de código, exploraremos elementos básicos como incluir bibliotecas, la estructura de una función `main`, la salida de texto y el uso del valor de retorno.
 
+
+## Contenido
+- [x] Hello world
+- [x] Tipos de datos
+
 ## Cómo usar este repositorio
 
 Cada carpeta de lección contendrá el material de aprendizaje correspondiente, incluidos ejemplos de código y posiblemente ejercicios. Te animamos a explorar las lecciones en orden y a practicar cada concepto con el código proporcionado. Si tienes alguna pregunta o enfrentas desafíos, no dudes en abrir un problema en este repositorio para que podamos ayudarte.
@@ -98,4 +103,4 @@ Visual Studio Code (VS Code) es una herramienta muy popular para programadores y
 ** Compilador dde C++ **
 
 - En la pestaña extensiones encuentra " C/C++ Compile Run"
-- Instala la extensión xw
+- Instala la extensión para pode compilar directamente desde el editor
