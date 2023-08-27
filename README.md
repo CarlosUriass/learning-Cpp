@@ -32,6 +32,7 @@ En este pequeño fragmento de código, exploraremos elementos básicos como incl
 - [x] Variables
 - [x] Constantes
 - [x] Array
+- [x] Operadores
 
 ## Cómo usar este repositorio
 
@@ -110,7 +111,7 @@ Visual Studio Code (VS Code) es una herramienta muy popular para programadores y
 - Busca "C++" en el cuadro de búsqueda.
 - Instala la extensión proporcionada por Microsoft.
 
-** Compilador de C++ **
+**Compilador de C++**
 
 - En la pestaña extensiones encuentra " C/C++ Compile Run"
 - Instala la extensión para pode compilar directamente desde el editor

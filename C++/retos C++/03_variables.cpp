@@ -46,6 +46,8 @@ Valor: false
 Reto extra: Imprime el tipo de cada variable
 #include <typeinfo> // Necesario para usar typeid
 */
+#include <iostream>
+#include <string>
 
 int main(){
     // Escribe aqui tu respuestas
