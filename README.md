@@ -33,6 +33,8 @@ En este pequeño fragmento de código, exploraremos elementos básicos como incl
 - [x] Constantes
 - [x] Array
 - [x] Operadores
+- [x] Entrada y salida de datos
+- [x] algoritmos
 
 ## Cómo usar este repositorio
 
@@ -44,6 +46,9 @@ Dentro de la carpeta 'C++' encontrarás una subcarpeta llamada 'retos C++', en e
 La subcarpeta 'retos soluciones' están los ejercicios completos por si alguno se te dificulta.
 
 Recuerda que si tienes alguna duda, pregunta puedes abrir un problema en este repositorio para intentar ayudarte.
+
+- [x] Retos de los temas basicos
+- [x] Retos de algoritmos
 
 ## Contribuciones
 

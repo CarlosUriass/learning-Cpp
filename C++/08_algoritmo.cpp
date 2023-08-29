@@ -12,8 +12,8 @@ Costo galón $35.
 
 #include <iostream>
 int main(){
-    double galon = 3.785;
-    int precioGalon = 35;
+    const double galon = 3.785;
+    const int precioGalon = 35;
 
     int litrosProduccion;
     std::cout << "¿Cuanto fue la produccion del dia? (en litros)" << std::endl;
