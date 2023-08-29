@@ -39,9 +39,9 @@ Estas prácticas refuerzan la comprensión y habilidades fundamentales
 en programación.
 
 2. Resolución de Problemas: El proceso de desglosar un problema en pasos lógicos
- y codificar soluciones efectivas mejora las habilidades de resolución de
-  problemas. A medida que los estudiantes abordan una variedad de desafíos,
-   se vuelven más adeptos a abordar y resolver problemas de manera eficiente.
+y codificar soluciones efectivas mejora las habilidades de resolución de
+problemas. A medida que los estudiantes abordan una variedad de desafíos,
+se vuelven más adeptos a abordar y resolver problemas de manera eficiente.
 
 3. Conversión de Unidades: Este ejercicio en particular involucra la conversión
 de unidades de medida (de litros a galones) y la aplicación de una relación de 
@@ -54,7 +54,7 @@ del mundo real. Esto puede motivarlos al ver que sus habilidades tienen un impac
 tangible y pueden resolver problemas cotidianos.
 
 5. Preparación para Desafíos Mayores: Al comenzar con problemas más simples
- y progresar hacia desafíos más complejos, los estudiantes están mejor preparados 
- para enfrentar problemas y proyectos más grandes en el futuro.
+y progresar hacia desafíos más complejos, los estudiantes están mejor preparados 
+para enfrentar problemas y proyectos más grandes en el futuro.
 
 */
