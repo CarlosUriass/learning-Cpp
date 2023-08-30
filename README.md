@@ -34,7 +34,9 @@ En este pequeño fragmento de código, exploraremos elementos básicos como incl
 - [x] Array
 - [x] Operadores
 - [x] Entrada y salida de datos
-- [x] algoritmos
+- [x] Algoritmos
+- [x] Condicionales
+- [x] switch
 
 ## Cómo usar este repositorio
 
