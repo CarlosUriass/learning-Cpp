@@ -36,8 +36,11 @@ En este pequeño fragmento de código, exploraremos elementos básicos como incl
 - [x] Entrada y salida de datos
 - [x] Algoritmos
 - [x] Condicionales
-- [x] switch
-
+- [x] Switch
+- [x] Operadores logicos
+- [x] Ciclo for
+- [x] Ciclo While 
+- [x] Ciclo Do-while
 ## Cómo usar este repositorio
 
 Cada carpeta de lección contendrá el material de aprendizaje correspondiente, incluidos ejemplos de código y posiblemente ejercicios. Te animamos a explorar las lecciones en orden y a practicar cada concepto con el código proporcionado. Si tienes alguna pregunta o enfrentas desafíos, no dudes en abrir un problema en este repositorio para que podamos ayudarte.
